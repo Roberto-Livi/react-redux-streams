@@ -1,5 +1,6 @@
 import React from 'react'
 import { connect } from 'react-redux'
+import { fetchStream } from '../../actions/index'
 
 class StreamEdit extends React.Component {
 
