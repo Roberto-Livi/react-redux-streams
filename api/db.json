@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "fall guys",
+      "description": "knockout stream",
+      "id": 10
+    },
+    {
+      "title": "MyStream",
+      "description": "This is a great stream",
+      "userId": "115162861985241269660",
+      "id": 11
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!!!",
+      "userId": "115162861985241269660",
+      "id": 12
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "Watch me refactor some components",
+      "userId": "115162861985241269660",
+      "id": 13
+    }
+  ]
+}
